@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body {
+    background-color: rgba(74, 120, 219, 0.801);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+header {
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    color: white;
+    margin: -20px -8px 18px -8px;
+}
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    width: 500px;
+    margin: auto; /* centralizar */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.418);
+}
+div {
+    padding: 5px;
+}
